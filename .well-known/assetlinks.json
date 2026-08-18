@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mikettrtmaker.codice",
+    "sha256_cert_fingerprints": ["F6:77:69:37:83:A4:41:18:7A:5C:30:BF:54:CE:43:97:D3:07:C4:3B:65:BD:C0:B1:78:99:57:E4:96:11:50:4E"]
+  }
+}]
